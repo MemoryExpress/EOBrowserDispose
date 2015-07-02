@@ -1,0 +1,13 @@
+﻿<Window x:Class="EOBrowserDispose.Dialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:eo="http://schemas.essentialobjects.com/wpf/"
+        Title="Modal" Height="300" Width="300">
+    <Grid>
+        <eo:WebControl Name="WebControl">
+            <eo:WebControl.WebView>
+                <eo:WebView></eo:WebView>
+            </eo:WebControl.WebView>
+        </eo:WebControl>
+    </Grid>
+</Window>

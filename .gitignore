@@ -1,0 +1,7 @@
+*.suo
+bin/
+obj/
+/EOBrowserDispose/Libraries/EO.WebBrowser.Wpf.dll
+/EOBrowserDispose/Libraries/EO.WebBrowser.Wpf.xml
+/EOBrowserDispose/Libraries/EO.WebBrowser.dll
+/EOBrowserDispose/Libraries/EO.WebBrowser.xml
